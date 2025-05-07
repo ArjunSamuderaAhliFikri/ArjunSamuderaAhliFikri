@@ -54,10 +54,9 @@
 
 ###
 
-<img align="center" width="200" height="200" src="https://tenor.com/id/view/welcome-gojo-gif-1910620349539693256"/>
+<img align="leftt" width="300" height="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9vNWJjZTdhem5va2RwMXg2eHUzdWtwNm9tdm1qNHIxcmtqN3FvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTUK1MSNWmjt5p7VbL/giphy.gif"  />
 
-<!-- <div class="tenor-gif-embed" data-postid="1910620349539693256" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/welcome-gojo-gif-1910620349539693256">Welcome Gojo GIF</a>from <a href="https://tenor.com/search/welcome+gojo-gifs">Welcome Gojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<img align="right" width="500" height="275" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdmdDZmc2J2Nm14N3VxNjh0a2wzMW1ncjlmN3FzZHVjcGRoMjZzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cruO3FTeoAxjiTVxPW/giphy.gif"/>
 
 ###
 
